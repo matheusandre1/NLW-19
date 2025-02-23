@@ -1,4 +1,4 @@
-﻿namespace TechLibrary.Application.Request
+﻿namespace TechLibrary.Communication.Request
 {
     public class RequestLoginJson
     {

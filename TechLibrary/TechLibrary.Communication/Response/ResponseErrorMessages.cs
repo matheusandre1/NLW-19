@@ -1,4 +1,4 @@
-﻿namespace TechLibrary.Application.Response
+﻿namespace TechLibrary.Communication.Response
 {
     public class ResponseErrorMessages
     {

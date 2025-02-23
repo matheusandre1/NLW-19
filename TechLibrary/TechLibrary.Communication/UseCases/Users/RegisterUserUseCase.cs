@@ -9,7 +9,7 @@ using TechLibrary.Infrastruture.DataAccess;
 using TechLibrary.Infrastruture.Security.Encryption;
 using TechLibrary.Infrastruture.Tokens.Access;
 
-namespace TechLibrary.Application.UseCases.Users
+namespace TechLibrary.Communication.UseCases.Users
 {
     public class RegisterUserUseCase
     {

@@ -29,7 +29,7 @@ namespace TechLibrary.Infrastruture.Tokens.Access
         }
 
 
-        public static SymmetricSecurityKey GenerateKey()
+        public SymmetricSecurityKey GenerateKey()
         {
             return new SymmetricSecurityKey(Encoding.UTF8.GetBytes("MaZx8Iohq5x66WkyOg5s1K4hC8YClrGg"));
         }

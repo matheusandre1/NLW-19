@@ -1,11 +1,11 @@
-﻿using TechLibrary.Application.Request;
+﻿using TechLibrary.Communication.Request;
 using TechLibrary.Communication.Response;
 using TechLibrary.Exception;
 using TechLibrary.Infrastruture.DataAccess;
 using TechLibrary.Infrastruture.Security.Encryption;
 using TechLibrary.Infrastruture.Tokens.Access;
 
-namespace TechLibrary.Application.UseCases.Login.DoLogin
+namespace TechLibrary.Communication.UseCases.Login.DoLogin
 {
     public class DoLoginUseCase
     {

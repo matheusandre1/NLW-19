@@ -1,10 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using TechLibrary.Application.Response;
-using TechLibrary.Application.UseCases.Users;
+﻿using Microsoft.AspNetCore.Mvc;
 using TechLibrary.Communication.Request;
 using TechLibrary.Communication.Response;
-using TechLibrary.Exception;
+using TechLibrary.Communication.UseCases.Users;
 
 namespace TechLibrary.Api.Controllers
 {
